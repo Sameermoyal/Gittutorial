@@ -1,0 +1,5 @@
+var item= document.querySelector('.list-group-item:nthchild(2)');
+item.style.color='green'
+
+var item= document.querySelector('.list-group-item:nthchild(3)');
+item.style.color='invisible'
